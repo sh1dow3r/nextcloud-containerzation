@@ -47,7 +47,7 @@ EMAIL=admin@layer0.xyz
 ### 3. Run the Setup Script
 Run the provided bash script to set up the environment:
 ```bash
-./setup.sh
+./nextcloud-setup.sh
 ```
 
 This script performs the following:
